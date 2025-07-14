@@ -19,7 +19,7 @@ All tasks were completed using **Canva** with custom modifications to templates,
 
 ### 2. Social Media Banner – *FitTrack App*
 - **Tool Used:** Canva  
-- **Description:** A promotional Instagram-style banner for a fictional fitness tracking app. Includes motivational text, call-to-action, and fitness visuals to drive app engagement. This was for a app called FitTrack which I just created a challenge for promotional purposes. 
+- **Description:** A promotional Instagram-style banner for a fictional fitness tracking app and challenge. Includes motivational text, call-to-action, and fitness visuals to drive app engagement.
 - **Skills:** Visual storytelling, composition, bold color usage
 
 ---
