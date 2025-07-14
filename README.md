@@ -40,7 +40,7 @@ All tasks were completed using **Canva** with custom modifications to templates,
 
 ## 📌 Tools Used:
 - [Canva](https://www.canva.com) (free version)
-- [Looka AI] (https://looka.com/) 
+- [Looka AI](https://www.looka.com) 
 - PNG, JPG, and PDF formats
 
 ---
