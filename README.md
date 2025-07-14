@@ -12,7 +12,7 @@ All tasks were completed using **Canva** with custom modifications to templates,
 
 ### 1. Business Card – *Personal Branding*
 - **Tool Used:** Canva  
-- **Description:** Designed a professional business card with clean layout, custom colors, and clear contact information for personal use as a Web & Graphic Designer and mainly for the purpose of the Graphic Design Intern.  
+- **Description:** Designed a professional business card with clean layout, custom colors, and clear contact information for personal use as a Graphic Designer and mainly for the purpose of the Graphic Design Intern.  
 - **Skills:** Layout design, minimalism, typography
 
 ---
@@ -61,5 +61,5 @@ Website: [https://oasisinfobyte.com](https://oasisinfobyte.com)
 
 ## 🧑‍💻 Intern:
 **Puneeth Thatipamula**  
-Web & Graphic Design Enthusiast | Future Entrepreneur
+Graphic Design Enthusiast | Future Entrepreneur
 
