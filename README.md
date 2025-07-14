@@ -12,27 +12,27 @@ All tasks were completed using **Canva** with custom modifications to templates,
 
 ### 1. Business Card – *Personal Branding*
 - **Tool Used:** Canva  
-- **Description:** Designed a professional business card with clean layout, custom colors, and clear contact information for personal use as a Web & Graphic Designer.  
+- **Description:** Designed a professional business card with clean layout, custom colors, and clear contact information for personal use as a Web & Graphic Designer and mainly for the purpose of the Graphic Design Intern.  
 - **Skills:** Layout design, minimalism, typography
 
 ---
 
 ### 2. Social Media Banner – *FitTrack App*
 - **Tool Used:** Canva  
-- **Description:** A promotional Instagram-style banner for a fictional fitness tracking app. Includes motivational text, call-to-action, and fitness visuals to drive app engagement.  
+- **Description:** A promotional Instagram-style banner for a fictional fitness tracking app. Includes motivational text, call-to-action, and fitness visuals to drive app engagement. This was for a app called FitTrack which I just created a challenge for promotional purposes. 
 - **Skills:** Visual storytelling, composition, bold color usage
 
 ---
 
-### 3. Poster – *Summer Music Fest 2025*
+### 3. Poster – *Community Charity Run For Cancer Awareness*
 - **Tool Used:** Canva  
-- **Description:** A vibrant event poster featuring eye-catching fonts and colors to promote a fictional summer music festival. Includes key event info and a visual hierarchy.  
+- **Description:** A vibrant event poster featuring eye-catching fonts and colors to promote a fictional charity run for a great purpose. Includes key event info and a visual hierarchy.  
 - **Skills:** Event marketing, color matching, poster layout
 
 ---
 
-### 4. Logo Design – *Green Earth NGO* (Optional)
-- **Tool Used:** Canva Logo Maker  
+### 4. Logo Design – *Green Earth NGO* 
+- **Tool Used:** Looka Ai  
 - **Description:** A clean and minimalistic logo created for a fictional environmental nonprofit. Emphasizes nature, sustainability, and trust through iconography and colors.  
 - **Skills:** Branding, logo symbolism, clean design
 
